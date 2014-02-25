@@ -1,0 +1,1 @@
+A simple project to demonstrate how to fail build if mimimum code coverage is not met.

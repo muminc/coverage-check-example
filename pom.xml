@@ -69,7 +69,6 @@
                 <rule >
                   <element>CLASS</element>
                   <limits>
-                    <!-- implmentation is needed only for Maven 2 -->
                     <limit >
                       <counter>LINE</counter>
                       <value>COVEREDRATIO</value>

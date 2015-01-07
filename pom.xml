@@ -30,7 +30,6 @@
         <configuration>
             <!-- (2)  setup the argLine and run the unit tests.   **NOTE the "jacocArgeLine" property was configured the "prepare-agent" goal of Jacoco  (see below) -->
             <argLine>${jacocoArgLine} -Xmx256m</argLine>
-            <!-- Skips unit tests if the value of skip.unit.tests property is true -->
         </configuration>
       </plugin>
     
